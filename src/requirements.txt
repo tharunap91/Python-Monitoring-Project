@@ -9,5 +9,5 @@ gunicorn==21.2.0             # For production deployment
 
 black==24.3.0                # Code formatter
 flake8==7.0.0                # Linter
-pytest==8.1.1                # Unit test framework
+pytest==9.0.3                # Unit test framework
 
